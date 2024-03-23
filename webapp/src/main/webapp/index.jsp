@@ -33,6 +33,8 @@
 
   <h1> Thank you, Happy Learning 247-D </h1>
   <h1> Poll SCM Test </h1>
-
-  
+  <h1> Build and copy artifacts on to Docker host Job Test CI/CD on /opt/docker directory </h1>
+  <h1> Automate Build and Deployment on Tomcat Docker Container  </h1>
 </form>
+
+
