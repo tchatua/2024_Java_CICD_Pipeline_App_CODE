@@ -34,11 +34,7 @@
   <h1> Thank you, Happy Learning 247-D </h1>
   <h1> Poll SCM Test </h1>
   <h1> Build and copy artifacts on to Docker host Job Test CI/CD on /opt/docker directory </h1>
-<<<<<<< HEAD
-  <h1> Automate Build and Deployment on Tomcat Docker Container  </h1>
-=======
   <h1> Automate Build and Deployment on Docker Container  </h1>
->>>>>>> 4d7bd1739f4efa28eb415fae4399c2d796313301
 </form>
 
 
